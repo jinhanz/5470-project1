@@ -5,3 +5,4 @@ seaborn
 lightgbm
 matplotlib
 shap
+featuretools
